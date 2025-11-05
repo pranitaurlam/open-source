@@ -17,7 +17,7 @@ It supports common math operators like '+', '-', '*', '/'
 3. Run the program in your IDE.  
 4. Enter two numbers and an operator to get the result.
 
-## project Info
+## Project Info
 - **Language:** Python  
 - **Level:** Beginner  
 - **Purpose:** Learn basic arithmetic functions using user-defined functions.
